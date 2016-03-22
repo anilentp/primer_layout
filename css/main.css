@@ -1,0 +1,101 @@
+.container {
+	height: 800px;
+	width: 704px;
+	margin: auto;
+	position: relative;
+	top: 0;
+	left: 0;
+
+}
+.logo{
+	margin:auto;
+	height: 110px;
+	width: 704px;
+
+}
+
+.menu {
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+	width: 704px;
+	margin: auto;
+}
+li {
+	text-align: center;
+	display: inline;
+	font-size: 20px;
+	margin: auto;
+}
+.boton{
+	
+	padding-left: 20px;
+	padding-right: 20px;
+
+}
+
+.sep:after{
+	content: "|";
+	padding-left: 10px;
+	padding-right: 10px;
+	margin: auto;
+}
+
+a:link   
+{   
+ text-decoration:none;
+ color:black;
+ font-family: Tahoma;
+}   
+
+.grupo{
+	width: 704px;
+	height: 466px;
+	margin:auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+p{
+	padding: 20px;
+	margin: auto;
+	width: 400px;
+	font-family: tahoma;
+	font-size: 20px;
+	text-align: center;
+}
+.uno{
+	width: 50px;
+	margin: auto;
+}
+.dos{
+	width: 50px;
+	margin: auto;
+	border: 2px solid #B6B6B6;
+}
+.tres{
+	width: 80px;
+	margin: 20px;
+	border: 2px solid;
+}
+
+.section{
+	width: 704px;
+	height: 550px;
+	position: relative;
+	left: 0;
+
+}
+.foto{
+	display: inline-block;
+	position: relative;
+	left: 10px;
+	top: 10px;
+	padding: 10px;
+}
+.nombre {
+	position: absolute;
+	bottom: 14px;
+	right: 14px;
+	display: inline;
+	color: white;
+	font-family: tahoma;
+}
