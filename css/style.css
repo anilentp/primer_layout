@@ -1,0 +1,30 @@
+.container{
+	height: 800px;
+	width: 704px;
+	margin: auto;
+	border:solid;
+	position: relative;
+	top: 0;
+	left: 0;
+}
+.principal {
+	margin: 0 auto;
+	 height:211px; 
+	 width: 211px;
+	 border-radius: 100%;
+	 position: relative;
+	 left:0;
+	 top: 30px;
+
+}
+p{
+	margin: auto;
+	font-size: 22px;
+	font-family: tahoma;
+	text-align: center;
+	width: 400px;
+}
+h1{
+	text-align: center;
+
+}
