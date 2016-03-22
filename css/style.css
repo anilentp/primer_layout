@@ -1,20 +1,21 @@
 .container{
-	height: 800px;
+	height: 1200px;
 	width: 704px;
 	margin: auto;
 	border:solid;
 	position: relative;
 	top: 0;
 	left: 0;
+	font-family: tahoma;
 }
 .principal {
-	margin: 0 auto;
+	 margin: auto;
 	 height:211px; 
 	 width: 211px;
 	 border-radius: 100%;
 	 position: relative;
-	 left:0;
-	 top: 30px;
+	 left:246px;  
+	 top: 20px;
 
 }
 p{
@@ -26,5 +27,42 @@ p{
 }
 h1{
 	text-align: center;
-
+}
+h2{
+	margin:20px;
+}
+img {
+	height: 100px;
+	width: 200px;
+	display: inline-block;
+	margin: 10px;
+	position: relative;
+	left:15px;
+}
+.habil1 {
+	height: 10px;
+	width: 500px;
+	background-color: #A5A4A4;
+	color: white;
+	margin-left: 60px;
+	margin-top: 20px;
+	padding: 20px;
+}
+.habil2 {
+	height: 10px;
+	width: 300px;
+	background-color: #A5A4A4;
+	color: white;
+	margin-left: 60px;
+	margin-top: 20px;
+	padding: 20px;
+}
+.habil3 {
+	height: 10px;
+	width: 100px;
+	background-color: #A5A4A4;
+	color: white;
+	margin-left: 60px;
+	margin-top: 20px;
+	padding: 20px;
 }
